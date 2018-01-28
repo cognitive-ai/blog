@@ -2,21 +2,33 @@
 
   
     {
-      "title"			: "Hello World",
-      "link"			: "https://cognitive-ai.github.io/blog/blog/hello-world/",
-      "excerpt"		: "You’ll find this post in your _posts directory - edit this post and re-build (or run with the -w switch) to see your changes!To add new posts, simply add a file in the _posts directory that follows the convention: YYYY-MM-DD-name-of-post.ext."
+      "title"			: "Will Machines surpass human intelligence?",
+      "link"			: "http://localhost:4000/theory/GAI/",
+      "excerpt"		: "The idea that machines will one day surpass human intelligence is based on three simple assumptions."
     }
   
 
   
     ,{
-      "title"			: "Will Machines surpass human intelligence?",
-      "link"			: "https://cognitive-ai.github.io/blog/articles/video-post/",
-      "excerpt"		: "The idea that machines will one day surpass human intelligence is based on three simple assumptions."
+      "title"			: "AI Experiments",
+      "link"			: "http://localhost:4000/practice/ExperimentalSites/",
+      "excerpt"		: "Experimenting with Artificial Intelligence"
+    }
+  
+
+  
+    ,{
+      "title"			: "Welcome to Cognitive AI",
+      "link"			: "http://localhost:4000/blog/welcome/",
+      "excerpt"		: "Welcome Message"
     }
   
 
 
+
+  
+
+  
 
   
 
@@ -27,21 +39,19 @@
   
     ,{
       "title"			: "About Cognitive AI",
-      "link"			: "https://cognitive-ai.github.io/blog/about/",
+      "link"			: "http://localhost:4000/about/",
       "excerpt"		: "Cognitive AI preparing for the age of artificial intelligence."
     }
   
 
   
-
-  
-
-  
     ,{
       "title"			: "Theme Setup",
-      "link"			: "https://cognitive-ai.github.io/blog/theme-setup/",
+      "link"			: "http://localhost:4000/theme-setup/",
       "excerpt"		: "Instructions on how to install and customize the Jekyll theme So Simple."
     }
+  
+
   
 
   
