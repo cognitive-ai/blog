@@ -260,6 +260,12 @@ header.masthead .intro-text .intro-heading {
     position: relative;
     top: -10px;
 }
+
+.up
+{
+  position: relative;
+  top: -30px;
+}
 .service-heading {
   margin: 15px 0;
   text-transform: none;
