@@ -1,1 +1,0 @@
-Sitemap: http://cognitive-ai.github.io/blog/sitemap.xml
