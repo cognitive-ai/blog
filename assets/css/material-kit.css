@@ -15995,7 +15995,7 @@ select.selectpicker {
     top: 0;
     content: ""; }
   .header-filter::before {
-    background: rgba(0, 0, 0, 0.5); }
+    background: rgba(0, 0, 0, 0.05); }
   .header-filter .container {
     z-index: 2;
     position: relative; }
